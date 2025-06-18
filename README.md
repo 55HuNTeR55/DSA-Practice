@@ -30,3 +30,4 @@ This repo contains all the problems I solve daily, categorized by difficulty.
 | 🟢 Easy     | 14     |
 | 🟠 Medium   | 1      |
 | 🔴 Hard     | 0      |
+![LeetCode Stats](https://leetcard.jacoblin.cool/Coded_BLOOD)
