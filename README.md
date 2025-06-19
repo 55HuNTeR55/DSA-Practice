@@ -30,4 +30,4 @@ This repo contains all the problems I solve daily, categorized by difficulty.
 | 🟢 Easy     | 14     |
 | 🟠 Medium   | 1      |
 | 🔴 Hard     | 0      |
-![LeetCode Stats](https://leetcard.jacoblin.cool/Coded_BLOOD?theme=wtf&font=Chelsea%20Market&ext=heatmap)
+![LeetCode Stats](https://leetcard.jacoblin.cool/Coded_BLOOD?theme=dark&font=Chelsea%20Market&ext=heatmap)
